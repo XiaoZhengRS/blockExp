@@ -1,0 +1,6 @@
+###LOG代表原木 DIRT代表泥土  后面数值代表奖励经验
+##原版方块英文可以去http://docs.zoyn.top/bukkitapi/1.12.2/org/bukkit/Material.html查看!
+debug: true
+exp:
+  LOG: 10
+  DIRT: 10

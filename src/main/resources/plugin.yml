@@ -1,0 +1,5 @@
+name: BlockExp
+version: ${project.version}
+main: com.xiaozhengkeji.blockexp.BlockExp
+authors: [XiaoZhengRS]
+description: QQ1419158026
